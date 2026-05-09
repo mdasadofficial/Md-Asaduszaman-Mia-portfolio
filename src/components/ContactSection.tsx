@@ -58,7 +58,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="text-sm font-bold text-slate-400 uppercase tracking-widest">Email Me</h3>
-                <p className="text-lg font-medium text-white">hello@jensenomega.com</p>
+                <p className="text-lg font-medium text-white">mdasadofficial1@gmail.com</p>
               </div>
             </motion.div>
 
@@ -70,8 +70,8 @@ export default function ContactSection() {
                 <Send size={24} />
               </div>
               <div>
-                <h3 className="text-sm font-bold text-slate-400 uppercase tracking-widest">Socials</h3>
-                <p className="text-lg font-medium text-white">@jensenomega</p>
+                <h3 className="text-sm font-bold text-slate-400 uppercase tracking-widest">Contact</h3>
+                <p className="text-lg font-medium text-white">01787987687</p>
               </div>
             </motion.div>
           </div>
